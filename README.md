@@ -52,7 +52,8 @@ The top of the battery holder is at the potential of the positive side of
 the battery. The holder top presents a possibility of a short, so it is
 advised to cover it with a strong adhesive tape or contact sheet. Better
 yet, remove the chrome coating from the top with rough sandpaper prior to
-soldering the holder to the board, then coat with paint or nail polish.
+soldering the holder to the board, then coat with paint or nail polish
+after the soldering operation.
 
 To insure the card contacts are pressed firmly against the card connector
 contacts in a calculator, attach a strip of 0.8mm (1/32") thick plastic
